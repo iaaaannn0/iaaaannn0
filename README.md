@@ -32,7 +32,7 @@ Here are some of my key projects:
 ## 📫 Contact Me
 Feel free to reach out:
 - GitHub: [iaaaannn0](https://github.com/iaaaannn0)
-- Email: [iaaaannn0@example.com](mailto:admin@iaaaannn0.com)
+- Email: [admin@iaaaannn0.com](mailto:admin@iaaaannn0.com)
 
 ---
 
