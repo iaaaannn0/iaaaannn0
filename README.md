@@ -27,6 +27,8 @@ Here are some of my key projects:
 - 🌐 **[blocklistru](https://github.com/iaaaannn0/blocklistru):** An open-source project collecting and organizing domains blocked in Russia.
 - 🔀 **[blockdetect](https://github.com/iaaaannn0/blockdetect/tree/main):** About
 A tool to detect and analyze domain blocking methods, including DNS pollution, IP blocking, DPI, and more.
+- 🐾 **[hexo-theme-epsilon](https://github.com/iaaaannn0/hexo-theme-epsilon):** About
+Epsilon is a clean, minimal, and customizable Hexo theme designed for simplicity and flexibility.
 
 
 ---
