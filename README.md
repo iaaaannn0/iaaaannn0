@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
   <img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
   <img src="https://img.shields.io/badge/OpenBSD-%23FCCF0D.svg?style=for-the-badge&logo=openbsd&logoColor=black" alt="OpenBSD">
+  <img src="https://img.shields.io/badge/NixOS-%23A2A9D3.svg?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS">
+  <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/GNU-%23A52A2A.svg?style=for-the-badge&logo=gnu&logoColor=white" alt="GNU">
 </div>
 
 ---
@@ -18,7 +21,9 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/ASM-%23CC0000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Vim-%23030C02.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
 </div>
+
 
 ---
 
