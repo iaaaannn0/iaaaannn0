@@ -45,3 +45,5 @@ Feel free to reach out:
 ---
 
 🎉 Thanks for stopping by! Explore my repositories and feel free to collaborate. 🚀
+
+![Visitor Count](https://profile-counter.glitch.me/iaaaannn0/count.svg?)
