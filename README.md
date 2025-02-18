@@ -33,7 +33,7 @@ Here are some of my key projects:
 - **[blockdetect](https://github.com/iaaaannn0/blockdetect/tree/main):** A tool to detect and analyze domain blocking methods, including DNS pollution, IP blocking, DPI, and more.
 - **[hexo-theme-epsilon](https://github.com/iaaaannn0/hexo-theme-epsilon):** Epsilon is a clean, minimal, and customizable Hexo theme designed for simplicity and flexibility.
 - **[Geser](https://github.com/iaaaannn0/Geser):** Geser is a Rust-based Gemini server that securely serves Markdown and static assets over TLS.
-
+- **[TransTweetX](https://github.com/iaaaannn0/TransTweetX):** TransTweetX offers precise, emoji-friendly translations for Twitter/X feed.
 
 ---
 
