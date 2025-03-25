@@ -35,6 +35,8 @@ Here are some of my key projects:
 - **[Geser](https://github.com/iaaaannn0/Geser):** Geser is a Rust-based Gemini server that securely serves Markdown and static assets over TLS.
 - **[TransTweetX](https://github.com/iaaaannn0/TransTweetX):** TransTweetX offers precise, emoji-friendly translations for Twitter/X feed.
 - **[RimeDictEditor](https://github.com/iaaaannn0/RimeDictEditor):** A simple editor for managing Rime dictionary files.
+- **[OpenVPNAdvanced](https://github.com/iaaaannn0/openvpnadvanced):** A rule-based traffic splitter for OpenVPN.
+
 ---
 
 ## 📫 Contact Me
