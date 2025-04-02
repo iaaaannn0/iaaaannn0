@@ -43,6 +43,7 @@ Here are some of my key projects:
 Feel free to reach out:
 - GitHub: [iaaaannn0](https://github.com/iaaaannn0)
 - Email: [admin@iaaaannn0.com](mailto:admin@iaaaannn0.com)
+- Discord: `iaaaannn0`
 
 ---
 
