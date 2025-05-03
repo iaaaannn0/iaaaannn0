@@ -37,6 +37,8 @@ Here are some of my key projects:
 - **[RimeDictEditor](https://github.com/iaaaannn0/RimeDictEditor):** A simple editor for managing Rime dictionary files.
 - **[OpenVPNAdvanced](https://github.com/iaaaannn0/openvpnadvanced):** A rule-based traffic splitter for OpenVPN.
 - **[xcq](https://github.com/iaaaannn0/xcq):** xcq is a retro-style XMPP client.
+- **[TransPostBSKY](https://github.com/iaaaannn0/TransPostBSKY):** Automatic insertion of translations for the Bluesky timeline.
+
 
 ---
 
